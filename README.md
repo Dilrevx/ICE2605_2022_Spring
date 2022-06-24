@@ -1,7 +1,9 @@
 # ICE2605_2022_Spring
 
-# Package
+## Package
 ffmpeg, scipy
 
+## File Structure
 *gen.py* used to generate .wav file
-*1.py, 2.py* are sol to 2 problems, one for mag-phase plotting, the other for audio sampling
+
+*1.py, 2.py* are solution respectly for 2 problems, one for mag-phase plotting, the other for audio sampling
